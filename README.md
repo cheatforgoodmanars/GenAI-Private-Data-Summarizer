@@ -1,3 +1,7 @@
+## بالمختصر المفيد لازم تدفع
+#  
+
+
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
